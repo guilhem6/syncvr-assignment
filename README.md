@@ -1,4 +1,8 @@
 1. Instructions to open the project :
+ - Download the github depository with GitHub (Code -> Download zip)
+ - Excract the file
+ - Open Unity Hub and open the folder inside
+ - Click on scene and double-click on MainMenu
 
 2. Design choices :
 The aim of this game is to relax the child and to make him focus on something else than his painful operation.
